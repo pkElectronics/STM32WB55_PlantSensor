@@ -4,4 +4,5 @@ Therefore several components will be developed including a battery powered senso
 Communication between the sensors and the base will be done via bluetooth mesh. Later more kinds of sensors may be developed as well.
 
 All Hardware Design Files licensed under CC BY-NC 4.0 
+
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
