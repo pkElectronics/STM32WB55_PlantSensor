@@ -1,0 +1,9 @@
+stm32wb55_plantsensor\shci_tl_if.o: ../Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/tl/shci_tl_if.c
+stm32wb55_plantsensor\shci_tl_if.o: ../Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/tl/shci_tl.h
+stm32wb55_plantsensor\shci_tl_if.o: ../Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/tl/tl.h
+stm32wb55_plantsensor\shci_tl_if.o: ../Middlewares/ST/STM32_WPAN/stm32_wpan_common.h
+stm32wb55_plantsensor\shci_tl_if.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32wb55_plantsensor\shci_tl_if.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32wb55_plantsensor\shci_tl_if.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32wb55_plantsensor\shci_tl_if.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32wb55_plantsensor\shci_tl_if.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
